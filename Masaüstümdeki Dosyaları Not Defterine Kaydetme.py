@@ -6,9 +6,9 @@ for i in klasorler:   # Masaüstündeki tüm dosyaların üzerinde işlem yapabi
     if i.endswith(".txt"):   # Txt dosyalarını ayıklamak için koşul sağlıyorum.
         with open("Txt Dosyası.txt", "a", encoding="utf-8") as f: # Txt dosyalarını bir txt dosyası açtırıp yazdırmak üzere dosya açıyoruz.
             f.write(i+"\n")
-    if i.endswith(".pdf"):   # Pdf dosyalarını ayıklamak için koşul sağlıyorum.
+    elif i.endswith(".pdf"):   # Pdf dosyalarını ayıklamak için koşul sağlıyorum.
         with open("Pdf Dosyası.txt", "a", encoding="utf-8") as f: # Pdf dosyalarını bir txt dosyası açtırıp yazdırmak üzere dosya açıyoruz.
             f.write(i+"\n")
-    if i.endswith(".docx"):   # Docx dosyalarını ayıklamak için koşul sağlıyorum.
+    elif i.endswith(".docx"):   # Docx dosyalarını ayıklamak için koşul sağlıyorum.
         with open("Docx Dosyası.txt", "a", encoding="utf-8") as f: # Docx dosyalarını bir txt dosyası açtırıp yazdırmak üzere dosya açıyoruz.
             f.write(i+"\n")
