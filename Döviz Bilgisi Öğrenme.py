@@ -14,4 +14,4 @@ for isim,sayı in zip(isimler,sayılar): # İki listeyi bir listede birleştirip
     sayı = sayı.text
 
     print("{} : {} ".format(isim,sayı)) # İstediğim formatta yazdırıyorum.
-# Çalıştırıldığında anlık güncel fiyat bilgisini gösterir.
+""" Çalıştırıldığında anlık güncel fiyat bilgisini gösterir. """
