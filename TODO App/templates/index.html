@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>To do App</title>
+</head>
+<body>
+
+    <div style = "margin-top: 100px;" class="container">
+        <h3>To do List</h3>
+        <hr>
+        <form action="/add" method = "POST">
+            <div class="form-group">
+                <label for="exampleInputTodo1">To do Başlık</label>
+                <input type="text" class="form-control" name = "title" id="exampleInputTodo1" placeholder="To do Giriniz.."><br>
+                <button type = "submit" class = "btn btn-danger">Ekle</button>
+                <hr>
+              </div>
+        </form>
+    </div>
+    {% if todos == [] %}
+        <div class="alert alert-warning" role="alert">
+        Böyle bir To Do ' nuz yoktur.
+        </div>
+    {% else %}
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">id</th>
+            <th scope="col">To Do Başlık</th>
+            <th scope="col">Durum</th>
+            <th scope="col">Durum Güncelle</th>
+            <th scope="col">Durum sil</th>
+          </tr>
+        </thead>
+        <tbody>
+            {% for todo in todos  %}
+                <tr>
+                    <th scope="row">{{todo.id}}</th>
+                    <td>{{todo.title}}</td>
+
+                    {% if todo.complete == False %}
+                    <td>Tamamlanmadı</td>
+                    {% else %}
+                    <td>Tamamlandı</td>
+                    {% endif %}
+                    
+                    
+                    {% if  todo.complete == False%}
+                    <td><a href = "/complete/{{todo.id}}" class="btn btn-success">Tamamla</a></td>
+                    
+                    {% else %}
+                    <td><a href = "/complete/{{todo.id}}" class="btn btn-danger">İptal Et</a></td>
+                    
+                    {% endif %}
+                    
+                    <td><a href = "/delete/{{todo.id}}" class="btn btn-danger">Sil</a></td>
+                </tr>
+
+            
+            {% endfor %}
+        </tbody>
+      </table>
+    {% endif %}
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>    
+</body>
+</html>
