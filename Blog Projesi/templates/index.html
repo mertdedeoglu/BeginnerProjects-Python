@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<div class="jumbotron text-center">
+
+    <h3> Hoşgeldiniz </h3>
+   <p> Bu blogta geliştiriceler olarak blog yazılarınızı paylaşabilirsiniz ve insanlara yardımcı olabilirsiniz.</p>
+
+</div>
+
+<ul>
+    {% for article in articles   %}
+        <li> Article Id: {{article.id}} - Title: {{article.title}}- Content: {{article.content}} </li>
+        
+    
+    {% endfor %}
+</ul>
+{% endblock %}
