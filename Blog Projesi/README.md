@@ -1,1 +1,1 @@
-Flask framework ile Mysql veritabanını kullarak bir yazılım blog sayfası geliştirdim.
+Flask framework ile Mysql veritabanını kullarak kullanıcı girişli bir yazılım blog sayfası geliştirdim.
