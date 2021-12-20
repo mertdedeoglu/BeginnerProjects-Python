@@ -10,15 +10,15 @@ time.sleep(2)
 browser.find_element_by_xpath("//*[@id='react-root']/div/div/div/main/div/div/div/div[1]/div/div[3]/div[5]/a/div/span").click() # URL gittiğinde Giriş yap butonunu bulmak için bir obje atandı.
 
 time.sleep(2)
-browser.find_element_by_xpath("//*[@autocomplete='username']").send_keys("mert.dedeoglu.1903@hotmail.com" + Keys.ENTER) # Email yerine mailimizi yazıyoruz.
+browser.find_element_by_xpath("//*[@autocomplete='username']").send_keys("example@hotmail.com" + Keys.ENTER) # Email yerine mailimizi yazıyoruz.
 
 
 time.sleep(2)
-browser.find_element_by_xpath("//*[@name='text']").send_keys("ddoglumrt" + Keys.ENTER) # Adımı yazıyorum. ve enter diyorum.
+browser.find_element_by_xpath("//*[@name='text']").send_keys("exampleusername" + Keys.ENTER) # Adımı yazıyorum. ve enter diyorum.
 
 
 time.sleep(2)
-browser.find_element_by_xpath("//*[@autocomplete='current-password']").send_keys("94287m.Dede123" + Keys.ENTER) # Şifre giriyoruz. ve Enter diyip Giriş Yapıyoruz.
+browser.find_element_by_xpath("//*[@autocomplete='current-password']").send_keys("examplepassword" + Keys.ENTER) # Şifre giriyoruz. ve Enter diyip Giriş Yapıyoruz.
 
 time.sleep(2)
 
