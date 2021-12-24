@@ -1,0 +1,500 @@
+******************
+1.
+Kitap İsmi :Şeker Portakalı (Ciltsiz)
+Kitap Yazarı :   Jose Mauro De Vasconcelos
+Kitap Yayınevi :CAN YAYINLARI
+******************
+2.
+Kitap İsmi :Gece Yarısı Kütüphanesi
+Kitap Yazarı :   Matt Haig
+Kitap Yayınevi :DOMİNGO YAYINEVİ
+******************
+3.
+Kitap İsmi :Simyacı (Ciltsiz)
+Kitap Yazarı :   Paulo Coelho
+Kitap Yayınevi :CAN YAYINLARI
+******************
+4.
+Kitap İsmi :Kalk Yerine Yat
+Kitap Yazarı :   Şermin Yaşar
+Kitap Yayınevi :DOĞAN KİTAP
+******************
+5.
+Kitap İsmi :Var Mısın? & Güçlü Bir Yaşam İçin Öneriler
+Kitap Yazarı :   Doğan Cüceloğlu
+Kitap Yayınevi :KRONİK KİTAP
+******************
+6.
+Kitap İsmi :Kırmızı Pazartesi
+Kitap Yazarı :   Gabriel Garcia Marquez
+Kitap Yayınevi :CAN YAYINLARI
+******************
+7.
+Kitap İsmi :Delifişek
+Kitap Yazarı :   Jose Mauro De Vasconcelos
+Kitap Yayınevi :CAN YAYINLARI
+******************
+8.
+Kitap İsmi :Güneşi Uyandıralım
+Kitap Yazarı :   Jose Mauro De Vasconcelos
+Kitap Yayınevi :CAN YAYINLARI
+******************
+9.
+Kitap İsmi :Hayvan Çiftliği (Ciltsiz)
+Kitap Yazarı :   George Orwell
+Kitap Yayınevi :CAN YAYINLARI
+******************
+10.
+Kitap İsmi :Ben, Kirke
+Kitap Yazarı :   Madeline Miller
+Kitap Yayınevi :İTHAKİ YAYINLARI
+******************
+11.
+Kitap İsmi :Nasıl Dayandın Ya Rasulullah & Hayatını Değiştirecek Siyer
+Kitap Yazarı :   Mehmet  Yıldız
+Kitap Yayınevi :TİMAŞ YAYINLARI
+******************
+12.
+Kitap İsmi :Fahrenheit 451
+Kitap Yazarı :   Ray Bradbury
+Kitap Yayınevi :İTHAKİ YAYINLARI
+******************
+13.
+Kitap İsmi :Körlük
+Kitap Yazarı :   Jose Saramago
+Kitap Yayınevi :KIRMIZI KEDİ YAYINEVİ
+******************
+14.
+Kitap İsmi :Benim Zürafam Uçabilir
+Kitap Yazarı :   Mert Arık
+Kitap Yayınevi :TİMAŞ ÇOCUK YAYINLARI
+******************
+15.
+Kitap İsmi :Yüzyıllık Yalnızlık (Ciltsiz)
+Kitap Yazarı :   Gabriel Garcia Marquez
+Kitap Yayınevi :CAN YAYINLARI
+******************
+16.
+Kitap İsmi :Aylak Adam
+Kitap Yazarı :   Yusuf Atılgan
+Kitap Yayınevi :CAN YAYINLARI
+******************
+17.
+Kitap İsmi :Kehribar Geçidi
+Kitap Yazarı :  Prof. Dr. Nazan Bekiroğlu
+Kitap Yayınevi :TİMAŞ YAYINLARI
+******************
+18.
+Kitap İsmi :Fareler ve İnsanlar
+Kitap Yazarı :   John Steinbeck
+Kitap Yayınevi :SEL YAYINCILIK
+******************
+19.
+Kitap İsmi :Çöküş & Almanya, 1944-45
+Kitap Yazarı :   Ian Kershaw
+Kitap Yayınevi :KRONİK KİTAP
+******************
+20.
+Kitap İsmi :Cesur Yeni Dünya
+Kitap Yazarı :   Aldous Huxley
+Kitap Yayınevi :İTHAKİ YAYINLARI
+******************
+21.
+Kitap İsmi :1984
+Kitap Yazarı :   George Orwell
+Kitap Yayınevi :CAN YAYINLARI
+******************
+22.
+Kitap İsmi :101 Deyim 101 Öykü
+Kitap Yazarı :   Süleyman Bulut
+Kitap Yayınevi :CAN ÇOCUK YAYINLARI
+******************
+23.
+Kitap İsmi :İyileşen Evliliğim
+Kitap Yazarı :   Hatice Kübra Tongar
+Kitap Yayınevi :HAYY KİTAP
+******************
+24.
+Kitap İsmi :Veronika Ölmek İstiyor
+Kitap Yazarı :   Paulo Coelho
+Kitap Yayınevi :CAN YAYINLARI
+******************
+25.
+Kitap İsmi :Saatleri Ayarlama Enstitüsü
+Kitap Yazarı :   Ahmet Hamdi Tanpınar
+Kitap Yayınevi :DERGAH YAYINLARI
+******************
+26.
+Kitap İsmi :Bir Ömür Nasıl Yaşanır? & Hayatta Doğru Seçimler İçin Öneriler
+Kitap Yazarı :  Prof. Dr. İlber Ortaylı
+Kitap Yayınevi :KRONİK KİTAP
+******************
+27.
+Kitap İsmi :İçimizdeki Şeytan
+Kitap Yazarı :   Sabahattin Ali
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+28.
+Kitap İsmi :İnsanın Anlam Arayışı
+Kitap Yazarı :   Viktor Emil Frankl
+Kitap Yayınevi :OKUYAN US YAYIN
+******************
+29.
+Kitap İsmi :Uğultulu Tepeler
+Kitap Yazarı :   Emily Bronte
+Kitap Yayınevi :CAN YAYINLARI
+******************
+30.
+Kitap İsmi :Kayıp Tanrılar Ülkesi
+Kitap Yazarı :   Ahmet Ümit
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+31.
+Kitap İsmi :Martıya Uçmayı Öğreten Kedi
+Kitap Yazarı :   Luis Sepulveda
+Kitap Yayınevi :CAN ÇOCUK YAYINLARI
+******************
+32.
+Kitap İsmi :İnsan Vücudu Tiyatrosu
+Kitap Yazarı :   Maris Wicks
+Kitap Yayınevi :DOMİNGO YAYINEVİ
+******************
+33.
+Kitap İsmi :Kürk Mantolu Madonna
+Kitap Yazarı :   Sabahattin Ali
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+34.
+Kitap İsmi :101 Atasözü 101 Öykü
+Kitap Yazarı :   Süleyman Bulut
+Kitap Yayınevi :CAN ÇOCUK YAYINLARI
+******************
+35.
+Kitap İsmi :Gerçek Tıp & Yitik Şifanın İzinde
+Kitap Yazarı :   Aidin Salih
+Kitap Yayınevi :YİTİK ŞİFA
+******************
+36.
+Kitap İsmi :Serenad (Karton Kapak)
+Kitap Yazarı :   Zülfü Livaneli
+Kitap Yayınevi :DOĞAN KİTAP
+******************
+37.
+Kitap İsmi :Pal Sokağı Çocukları
+Kitap Yazarı :   Ferenc Molnar
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+38.
+Kitap İsmi :Vurgun / Parsel Parsel 2 
+Kitap Yazarı :   Murat Ağırel
+Kitap Yayınevi :KIRMIZI KEDİ YAYINEVİ
+******************
+39.
+Kitap İsmi :Gülün Adı (Ciltsiz)
+Kitap Yazarı :   Umberto Eco
+Kitap Yayınevi :CAN YAYINLARI
+******************
+40.
+Kitap İsmi :Siddhartha (Ciltsiz)
+Kitap Yazarı :   Hermann Hesse
+Kitap Yayınevi :CAN YAYINLARI
+******************
+41.
+Kitap İsmi :Kuyucaklı Yusuf
+Kitap Yazarı :   Sabahattin Ali
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+42.
+Kitap İsmi :30 Günde 10 Yıl
+Kitap Yazarı :  Prof. Dr. Yavuz Yörükoğlu
+Kitap Yayınevi :HAYY KİTAP
+******************
+43.
+Kitap İsmi :Sırça Köşk
+Kitap Yazarı :   Sabahattin Ali
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+44.
+Kitap İsmi :Zaman Bisikleti
+Kitap Yazarı :   Bilgin Adalı
+Kitap Yayınevi :CAN ÇOCUK YAYINLARI
+******************
+45.
+Kitap İsmi :İki Şehrin Hikayesi
+Kitap Yazarı :   Charles Dickens
+Kitap Yayınevi :CAN YAYINLARI
+******************
+46.
+Kitap İsmi :Akhilleus’un Şarkısı
+Kitap Yazarı :   Madeline Miller
+Kitap Yayınevi :İTHAKİ YAYINLARI
+******************
+47.
+Kitap İsmi :KPSS ALES DGS Ezberbozan Paragraf Soru Bankası
+Kitap Yazarı :   Kolektif 
+Kitap Yayınevi :PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+******************
+48.
+Kitap İsmi :İyi Aile Yoktur
+Kitap Yazarı :   Nihan Kaya
+Kitap Yayınevi :İTHAKİ YAYINLARI
+******************
+49.
+Kitap İsmi :İnce Memed 1
+Kitap Yazarı :   Yaşar Kemal
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+50.
+Kitap İsmi :Kitaplardan Korkan Çocuk
+Kitap Yazarı :   Susanna Tamaro
+Kitap Yayınevi :CAN ÇOCUK YAYINLARI
+******************
+51.
+Kitap İsmi :Keloğlan Namaz Peşinde
+Kitap Yazarı :   Merve Gülcemal
+Kitap Yayınevi :CEZVE ÇOCUK
+******************
+52.
+Kitap İsmi :Geliştiren Anne-Baba
+Kitap Yazarı :   Doğan Cüceloğlu
+Kitap Yayınevi :KRONİK KİTAP
+******************
+53.
+Kitap İsmi :Veba Geceleri
+Kitap Yazarı :   Orhan Pamuk
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+54.
+Kitap İsmi :Yaşamak
+Kitap Yazarı :   Yu Hua 
+Kitap Yayınevi :JAGUAR KİTAP
+******************
+55.
+Kitap İsmi :İyileşen Çocukluğum İyileşen Anneliğim
+Kitap Yazarı :   Hatice Kübra Tongar
+Kitap Yayınevi :HAYY KİTAP
+******************
+56.
+Kitap İsmi :Pekicik
+Kitap Yazarı :   Şermin Yaşar
+Kitap Yayınevi :DOĞAN EGMONT ÇOCUK KİTAPLARI
+******************
+57.
+Kitap İsmi :Hıhıcık
+Kitap Yazarı :   Şermin Yaşar
+Kitap Yayınevi :DOĞAN EGMONT ÇOCUK KİTAPLARI
+******************
+58.
+Kitap İsmi :Dahacık
+Kitap Yazarı :   Şermin Yaşar
+Kitap Yayınevi :DOĞAN EGMONT ÇOCUK KİTAPLARI
+******************
+59.
+Kitap İsmi :Aile İçinde
+Kitap Yazarı :   Hayati İnanç
+Kitap Yayınevi :PROFİL KİTAP
+******************
+60.
+Kitap İsmi :Aşk ve Öbür Cinler
+Kitap Yazarı :   Bekir Develi
+Kitap Yayınevi :CAN YAYINLARI
+******************
+61.
+Kitap İsmi :Okçu'nun Yolu
+Kitap Yazarı :   Paulo Coelho
+Kitap Yayınevi :CAN YAYINLARI
+******************
+62.
+Kitap İsmi :İnsan Nedir?
+Kitap Yazarı :   Mark Twain
+Kitap Yayınevi :DEDALUS KİTAP
+******************
+63.
+Kitap İsmi :Semerkant
+Kitap Yazarı :   Amin Maalouf
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+64.
+Kitap İsmi :Çavdar Tarlasında Çocuklar
+Kitap Yazarı :   J. D. Salinger
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+65.
+Kitap İsmi :Anayurt Oteli
+Kitap Yazarı :   Yusuf Atılgan
+Kitap Yayınevi :CAN YAYINLARI
+******************
+66.
+Kitap İsmi :Huzursuzluk
+Kitap Yazarı :   Zülfü Livaneli
+Kitap Yayınevi :DOĞAN KİTAP
+******************
+67.
+Kitap İsmi :Kral Şakir 10 / On Numara Macera! (Ciltli)
+Kitap Yazarı :   Varol Yaşaroğlu
+Kitap Yayınevi :EKSİK PARÇA ÇOCUK
+******************
+68.
+Kitap İsmi :Bin Dokuz Yüz Seksen Dört - 1984 
+Kitap Yazarı :   George Orwell
+Kitap Yayınevi :KAPRA YAYINCILIK
+******************
+69.
+Kitap İsmi :Mutluluğu Kaybettiğin Yerde Arama
+Kitap Yazarı :   Beyhan Budak
+Kitap Yayınevi :SAHİ KİTAP
+******************
+70.
+Kitap İsmi :Metis Ajanda 2022: Normali Beklerken
+Kitap Yazarı :   Kolektif 
+Kitap Yayınevi :METİS YAYINLARI
+******************
+71.
+Kitap İsmi :Son Ada
+Kitap Yazarı :   Zülfü Livaneli
+Kitap Yayınevi :DOĞAN KİTAP
+******************
+72.
+Kitap İsmi :Sahte Sultan
+Kitap Yazarı :   Mahfi Eğilmez
+Kitap Yayınevi :REMZİ KİTABEVİ
+******************
+73.
+Kitap İsmi :Allah’ı Neden Göremiyorum ? / Küçük Merve’nin Büyük Soruları 1
+Kitap Yazarı :   Merve Gülcemal
+Kitap Yayınevi :CEZVE ÇOCUK
+******************
+74.
+Kitap İsmi :Dervişin Teselli Koleksiyonu & Doğu'dan Batı'dan 99 Teselli 
+Kitap Yazarı :   Mecit Ömür Öztürk
+Kitap Yayınevi :HAYY KİTAP
+******************
+75.
+Kitap İsmi :İçimdeki Müzik 
+Kitap Yazarı :   Sharon M. Draper
+Kitap Yayınevi :TİMAŞ GENÇ
+******************
+76.
+Kitap İsmi :İnci
+Kitap Yazarı :   John Steinbeck
+Kitap Yayınevi :SEL YAYINCILIK
+******************
+77.
+Kitap İsmi :Doğunun Limanları
+Kitap Yazarı :   Amin Maalouf
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+78.
+Kitap İsmi :İnsan Olmak
+Kitap Yazarı :   Engin Geçtan
+Kitap Yayınevi :METİS YAYINLARI
+******************
+79.
+Kitap İsmi :Nohut Adam
+Kitap Yazarı :   Anıl Basılı
+Kitap Yayınevi :TİMAŞ ÇOCUK YAYINLARI
+******************
+80.
+Kitap İsmi :Beyaz Zambaklar Ülkesinde
+Kitap Yazarı :   Grigory Petrov
+Kitap Yayınevi :KAPRA YAYINCILIK
+******************
+81.
+Kitap İsmi :Huzur
+Kitap Yazarı :   Ahmet Hamdi Tanpınar
+Kitap Yayınevi :DERGAH YAYINLARI
+******************
+82.
+Kitap İsmi :Her Şey Eksik Her Şey Tamam 
+Kitap Yazarı :   İrem Yaşar
+Kitap Yayınevi :KÜSURAT YAYINLARI
+******************
+83.
+Kitap İsmi :Yeşil Peri Gecesi
+Kitap Yazarı :   Ayfer Tunç
+Kitap Yayınevi :CAN YAYINLARI
+******************
+84.
+Kitap İsmi :Değirmen
+Kitap Yazarı :   Sabahattin Ali
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+85.
+Kitap İsmi :Kapra Felsefe Seti (10 Kitap)
+Kitap Yazarı :   Sigmund Freud
+Kitap Yayınevi :KAPRA YAYINCILIK
+******************
+86.
+Kitap İsmi :Dura Mater
+Kitap Yazarı :   Rene Descartes
+Kitap Yayınevi :ELMA YAYINEVİ
+******************
+87.
+Kitap İsmi :Küçük Prens
+Kitap Yazarı :   Cicero 
+Kitap Yayınevi :KAPRA YAYINCILIK
+******************
+88.
+Kitap İsmi :Zamir
+Kitap Yazarı :   Tommasso Campanella
+Kitap Yayınevi :DOĞAN KİTAP
+******************
+89.
+Kitap İsmi :Kiraz Ağacı ile Aramızdaki Mesafe
+Kitap Yazarı :   Francis Bacon
+Kitap Yayınevi :TİMAŞ GENÇ
+******************
+90.
+Kitap İsmi :Çizgili Pijamalı Çocuk
+Kitap Yazarı :   Niccolo Machiavelli
+Kitap Yayınevi :TUDEM YAYINEVİ
+******************
+91.
+Kitap İsmi :Yabancı 
+Kitap Yazarı :   Platon(Eflatun) 
+Kitap Yayınevi :CAN YAYINLARI
+******************
+92.
+Kitap İsmi :Ay'ı Kim Çaldı?
+Kitap Yazarı :   William James
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+93.
+Kitap İsmi :Görmek
+Kitap Yazarı :   Serkan Karaismailoğlu
+Kitap Yayınevi :KIRMIZI KEDİ YAYINEVİ
+******************
+94.
+Kitap İsmi :Uzun Hikaye
+Kitap Yazarı :   Antoine De Saint Exupery
+Kitap Yayınevi :DERGAH YAYINLARI
+******************
+95.
+Kitap İsmi :Herkes İçin Siyer 1.Cilt & Peygamberimiz'in (s.a.v.) Hayatı / Mekke Dönemi
+Kitap Yazarı :   Hakan Günday
+Kitap Yayınevi :PROFİL KİTAP
+******************
+96.
+Kitap İsmi :Masumiyet Müzesi
+Kitap Yazarı :   Paola Peretti
+Kitap Yayınevi :YAPI KREDİ YAYINLARI
+******************
+97.
+Kitap İsmi :Gelecek 100 Yıl & 21. Yüzyıl İçin Öngörüler
+Kitap Yazarı :   John Boyne
+Kitap Yayınevi :PEGASUS YAYINLARI
+******************
+98.
+Kitap İsmi :Jane Eyre
+Kitap Yazarı :   Albert Camus
+Kitap Yayınevi :CAN YAYINLARI
+******************
+99.
+Kitap İsmi :Yeni Dünyanın Cesur İnsanı
+Kitap Yazarı :   Helen Stratton Would
+Kitap Yayınevi :TUTİ KİTAP
+******************
+100.
+Kitap İsmi :Balıkçı ve Oğlu
+Kitap Yazarı :   Jose Saramago
+Kitap Yayınevi :İNKILAP KİTABEVİ
