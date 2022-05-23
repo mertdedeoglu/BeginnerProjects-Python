@@ -1,0 +1,92 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+<div class="container mt-5">
+            <div class="row">
+                <div class="col-lg-10">
+                    <!-- Post content-->
+                    <article>
+                        <!-- Post header-->
+                        <header class="mb-4">
+                            <!-- Post title-->
+                            <h2 class="fw-bolder mb-5">{{article.title}}</h1>
+                            <!-- Post meta content-->
+                            <div class="text-muted fst-italic mb-2">Posted on {{article.created_date}} by {{article.author}}</div>
+                            <!-- Post categories-->
+                        </header>
+                        {% if article.article_image%}
+                        <figure class="mb-5"><img class="img-fluid rounded" src="{{article.article_image.url}}" alt="..."></figure>
+                        
+                        {% endif %}
+                        
+                        
+                        <!-- Post content-->
+                        <section class="mb-5">
+                            <p>
+                                {{article.content|safe}}                              
+                            </p>
+                        </section>
+                    </article>                
+                </div>               
+            </div>
+        </div>
+        <hr>
+        <h4> Yorumlar </h4>
+        
+
+        {% if comments %}
+        {% for comment in comments  %}
+            <hr>
+            <div class="d-flex">
+                <div class="flex-shrink-0"><img class="rounded-circle" src="https://dummyimage.com/50x50/ced4da/6c757d.jpg" alt="..."></div>
+                <div class="media-body">
+                    <h5 class="mt-3">{{comment.comment_author}}</h5>
+                    <h6>{{comment.comment_date}}</h6>
+                    <p>
+                    {{comment.comment_content}}
+                    </p>
+                </div>
+            </div>
+            <hr>
+        {% endfor %}
+            
+        {% else %}
+        <div class="alert alert-danger"> 
+            Yorum Yok.
+        </div>
+        {% endif %}
+
+        <section class="mb-5">
+                        <div class="card bg-light">
+                            <div class="card-body">
+                                <!-- Comment form-->
+                   
+                                <form method = "post" action = "{% url 'article:comment' article.id %}">
+                                    {%csrf_token%}
+                                    
+                                    <div class="form-group">
+                                            <label for="name">İsim</label>
+                                        <input name ="comment_author" type="text" class="form-control" id="name"  placeholder="İsminizi Girin.">
+                                      
+                                    </div>
+                                    <div class="form-group">
+                                            <label for="yorum">Yorum</label>
+                                        <textarea name ="comment_content" class="form-control" rows="3" placeholder="Tartışmaya katılın ve yorum ekleyin."></textarea>
+                                      
+                                    </div>                                        
+                                    <button type="submit" class="btn btn-primary">Yorum Ekle</button>   
+                                    
+                                </form>
+                                        
+                                
+                                
+                                
+                                    
+                                
+                                
+                            </div>
+                        </div>
+                    </section>
+        
+{% endblock body %}
